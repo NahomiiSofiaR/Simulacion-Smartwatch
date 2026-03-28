@@ -43,8 +43,8 @@ El objetivo es representar de manera visual y funcional cómo opera un smartwatc
 ### Pantalla de inicio
 ![Pantalla de inicio](images/inicio.png)
 
-### Alarma
-![Alarma](images/alarma.png)
+### Munu
+![Alarma](images/menu.png)
 
 ### Música
 ![Música](images/musica.png)
