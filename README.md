@@ -47,7 +47,7 @@ El objetivo es representar de manera visual y funcional cómo opera un smartwatc
 ![Alarma](images/menu.png)
 
 ### Música
-![Música](images/musica.png)
+![Música](images/musica2.png)
 
 ### Ejercicios
 ![Ejercicios](images/ejercicio.png)
